@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: #1fbe1f;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 50px;
+    border-radius: 5px;
+}
+
+body {
+    background-color:#96f6a1;
+    font-family: times new roman;
+}
+
+div {
+    background-color: rgb(132, 201, 118);
+
+}
+
+.quoters {
+    background-color: #39b329;
+    text-align: center;
+    width: auto;
+    margin-top: 80px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
